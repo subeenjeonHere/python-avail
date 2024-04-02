@@ -6,3 +6,9 @@ for sub in lol:
     for item in sub:
         print(item, end=' ')
     print()
+
+hello = ((1, 2), (3, 4))
+for subList in hello:
+    for node in subList:
+        print(node, end=' ')
+    print()
