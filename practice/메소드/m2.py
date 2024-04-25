@@ -3,5 +3,5 @@ c = "banana"
 c = c + "," + a + "," + b
 print(c)
 
-c = c.replace("banana", "newkiwi")
+c = c.replace("banana", "new kiwi")
 print(c)
